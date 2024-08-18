@@ -2,6 +2,47 @@
 
 #link to my backend canister deployed on the mainnet
 <a href="https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=ijciv-fiaaa-aaaal-qjp3a-cai">My backend Canister >></a>
+### PollApp on ICP
+Firstly, I want to make a shoutout to the ICP Community for making web3 development approachable and straightfoward. I built this project to test my knowledge on motoko programming language and some web3 archi concepts.
+
+### Features
+A simple poll_app that includes a question on who is your fav artites and recieves votes and store  data that can be viewed by making a queries.
+
+### Technologies Used
+
+- **Motoko Language**: For writing the backend canister code.
+- **dfx**: For creating, deploying, and managing the dapps.
+
+
+## Getting Started <a name = "getting_started">
+
+First, run:
+dfx start --clean --background
+
+To start:
+npm run start
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+
+### License
+
+Distributed under the MIT License. See `./LICENSE` for more information.
+
+### Contact
+
+Samuel Oguntimehin - [@samuelOtimehin](https://twitter.com/samuelOtimehin) - oguntimehinsamuel1@gmail.com
+
+Project Link: [Click Here](https://github.com/Cybugg/Poll_App_ICP)
+
+
+
+
+## ⛏️ Built Using <a name = "built_using"></a>
+
+- [Motoko]([https://www.nrxtjs.org/](https://internetcomputer.org/docs/current/motoko/main/getting-started/motoko-introduction)) - Language
+
 
 Welcome to your new `poll_app` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
